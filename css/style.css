@@ -159,6 +159,7 @@ a.more {
   top: 0px;
   right: 0px;
   z-index: 2;
+  width: 400px;
   max-width: 780px;
   left: -20px;
 }
